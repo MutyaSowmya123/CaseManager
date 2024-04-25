@@ -1,0 +1,12 @@
+criminalcase manager
+
+password:  H4kRC6acSE6N2l32
+username: sowmyamutya20
+
+mongodb+srv://sowmyamutya20:H4kRC6acSE6N2l32@cluster0.psr1kne.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+schema development:
+
+case ID
+Description
